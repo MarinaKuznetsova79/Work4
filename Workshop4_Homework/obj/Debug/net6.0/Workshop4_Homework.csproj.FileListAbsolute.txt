@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\Work4\Workshop4_Homework\bin\Debug\net6.0\Workshop4_Homework.exe
+C:\Users\Александр\Desktop\Work4\Workshop4_Homework\bin\Debug\net6.0\Workshop4_Homework.deps.json
+C:\Users\Александр\Desktop\Work4\Workshop4_Homework\bin\Debug\net6.0\Workshop4_Homework.runtimeconfig.json
+C:\Users\Александр\Desktop\Work4\Workshop4_Homework\bin\Debug\net6.0\Workshop4_Homework.dll
+C:\Users\Александр\Desktop\Work4\Workshop4_Homework\bin\Debug\net6.0\Workshop4_Homework.pdb
+C:\Users\Александр\Desktop\Work4\Workshop4_Homework\obj\Debug\net6.0\Workshop4_Homework.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\Work4\Workshop4_Homework\obj\Debug\net6.0\Workshop4_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\Work4\Workshop4_Homework\obj\Debug\net6.0\Workshop4_Homework.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\Work4\Workshop4_Homework\obj\Debug\net6.0\Workshop4_Homework.AssemblyInfo.cs
+C:\Users\Александр\Desktop\Work4\Workshop4_Homework\obj\Debug\net6.0\Workshop4_Homework.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Work4\Workshop4_Homework\obj\Debug\net6.0\Workshop4_Homework.dll
+C:\Users\Александр\Desktop\Work4\Workshop4_Homework\obj\Debug\net6.0\refint\Workshop4_Homework.dll
+C:\Users\Александр\Desktop\Work4\Workshop4_Homework\obj\Debug\net6.0\Workshop4_Homework.pdb
+C:\Users\Александр\Desktop\Work4\Workshop4_Homework\obj\Debug\net6.0\Workshop4_Homework.genruntimeconfig.cache
+C:\Users\Александр\Desktop\Work4\Workshop4_Homework\obj\Debug\net6.0\ref\Workshop4_Homework.dll
