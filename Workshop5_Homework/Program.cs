@@ -1,4 +1,4 @@
-﻿/ Задача 34:
+﻿// / Задача 34:
 // Задайте массив заполненный случайными положительными трёхзначными числами.
 //  Напишите программу, которая покажет количество чётных чисел в массиве.
 
@@ -177,3 +177,36 @@
 // Console.WriteLine($"Разница между {max} и {min} равна {difference}");
 
 
+Console.Write("Введите количество элементов массива: ");
+int a = Convert.ToInt32(Console.ReadLine());
+double[] randomArray = new double[a];
+
+void mas(int a)
+{
+Random rand = new Random();
+for (int i = 0; i < a; i++)
+{
+randomArray[i] = rand.NextDouble();
+Console.Write($"{randomArray[i]:F2} ");
+}
+
+}
+
+double raz(double[] randomArray)
+{
+double min = randomArray[0];
+double max = randomArray[0];
+int i = 1;
+while (i < randomArray.Length)
+{
+if (max<randomArray[i])
+max = randomArray[i];
+if (min>randomArray[i])
+min = randomArray[i];
+i = i + 1;
+}
+return max-min;
+}
+
+mas(a);
+Console.Write($"\nРазница между максимальным и минимальным элементов массива: {raz(randomArray):F2}");
